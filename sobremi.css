@@ -1,0 +1,11 @@
+.menu-content{
+    width:20%
+}
+
+.a-menu{
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+}

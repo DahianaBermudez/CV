@@ -1,13 +1,17 @@
 .header-content{
     display: flex;
     justify-content:center;
-    background-color: #E6E6E6;
+    background-image: url(../images/codigo.jpg);
 }
 .span-content-title{
     background: #C4C4C4;
     display: flex;
     justify-content:center;
     margin-bottom: 18vh;
+}
+.img-foto{
+    width:40%;
+    height:40%;
 }
 
 .h1-page-title{
@@ -29,4 +33,21 @@
     display: flex;
     justify-content: space-around;
     color: white;
+}
+
+.menu-content{
+    width:20%
+}
+
+.a-menu{
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+}
+
+.img-icon{
+    width:20px;
+    height: 20px;
 }
